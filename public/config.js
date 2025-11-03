@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Swap,Leaderboard,Rewards,Portfolio",
   "VITE_CUSTOM_MENUS": "",
-  "VITE_ENABLE_CAMPAIGNS": "true",
+  "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "perpetual trading, gold finance, wealth platform, omnichain liquidity, professional DEX, eternal gold, perpetual futures, 永金汇, 永恒财富",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "4",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
