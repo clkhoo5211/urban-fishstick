@@ -99,3 +99,25 @@ For custom domain setup:
 - [Orderly Network Documentation](https://orderly.network/docs/sdks)
 - [Storybook Theme Editor](https://storybook.orderly.network/?path=/story/package-trading-tradingpage--page)
 
+
+
+## 🚀 Quick Start
+
+1. **Install dependencies**: `yarn install`
+2. **Run development server**: `yarn dev`
+3. **Build for production**: `yarn build`
+
+## 📚 Documentation
+
+All documentation is available in the `docs/` directory:
+- [GitHub Deployment Guide](docs/GITHUB-DEPLOYMENT-GUIDE.md)
+- API and network analysis documentation
+- Feature logic documentation
+
+## 🌐 Deployment
+
+This repository is configured for automatic deployment to GitHub Pages. See [docs/GITHUB-DEPLOYMENT-GUIDE.md](docs/GITHUB-DEPLOYMENT-GUIDE.md) for setup instructions.
+
+Your deployed site will be available at: `https://clkhoo5211.github.io/urban-fishstick/`
+
+
