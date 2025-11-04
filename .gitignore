@@ -7,3 +7,8 @@ node_modules
 # SpecStory explanation file
 .specstory/.what-is-this.md
 /public/manifest.json
+.DS_Store
+app/.DS_Store
+app/components/.DS_Store
+app/pages/.DS_Store
+public/.DS_Store
