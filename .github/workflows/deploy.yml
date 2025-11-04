@@ -65,7 +65,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.TEMPLATE_PAT }}
+          token: ${{ secrets.TEMPLATE_PAT || github.token }}
           fetch-depth: 0
 
       - name: Configure Git
@@ -206,7 +206,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
         with:
-          token: ${{ secrets.TEMPLATE_PAT }}
+          token: ${{ secrets.TEMPLATE_PAT || github.token }}
           enablement: true
 
       - name: Upload artifact
